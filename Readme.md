@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Sadjin](https://up.htmlacademy.ru/javascript/15/user/574943).
-* Наставник: `Неизвестно`.
+* Наставник: `Саша Ивашкин`.
 
 ---
 
